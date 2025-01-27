@@ -88,7 +88,5 @@ Sample Tabel
 
 Sample Vide Embed
 
-[Lethal Company - Trailer.mp4](https://res.craft.do/user/full/9b90acb1-2b88-2bcd-a32a-70b7ba1da15e/doc/7830a0b2-4d23-4f91-89c4-f5a68ee864c3/3c1e347f-c71c-4874-a888-bef5de066deb)
-
----
+![](https://res.craft.do/user/full/9b90acb1-2b88-2bcd-a32a-70b7ba1da15e/doc/7830a0b2-4d23-4f91-89c4-f5a68ee864c3/3c1e347f-c71c-4874-a888-bef5de066deb)
 
