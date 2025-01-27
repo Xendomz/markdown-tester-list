@@ -88,7 +88,5 @@ Sample Tabel
 
 Sample Vide Embed
 
-<video width="320" height="240" controls>
-  <source src="https://res.craft.do/user/full/9b90acb1-2b88-2bcd-a32a-70b7ba1da15e/doc/7830a0b2-4d23-4f91-89c4-f5a68ee864c3/3c1e347f-c71c-4874-a888-bef5de066deb" type="video/mp4">
-</video>
+[![text](https://res.craft.do/user/full/9b90acb1-2b88-2bcd-a32a-70b7ba1da15e/doc/7830a0b2-4d23-4f91-89c4-f5a68ee864c3/d2ef59ee-dc06-4d5f-9abe-9879ee36e534)](https://res.craft.do/user/full/9b90acb1-2b88-2bcd-a32a-70b7ba1da15e/doc/7830a0b2-4d23-4f91-89c4-f5a68ee864c3/3c1e347f-c71c-4874-a888-bef5de066deb)
 
